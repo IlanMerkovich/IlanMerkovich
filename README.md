@@ -20,15 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilanmarkovich&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanmarkovich&theme=default&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 📬 Get in Touch
 
 <p align="center">
@@ -39,4 +30,13 @@
   <a href="https://linkedin.com/in/ilanmarkovich" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=flat-square&logo=linkedin" />
   </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilanmarkovich&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanmarkovich&theme=default&hide_border=true" width="48%" />
 </p>
