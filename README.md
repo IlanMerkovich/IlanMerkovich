@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ilanmarkovich/ilanmarkovich/main/banner.png" alt="Ilan Markovich Banner" width="100%" />
-</p>
-
 <h1 align="center" style="color:#00ffe1">Hey there! 👋 I'm <span style="color:#00ffff">Ilan Markovich</span></h1>
 
 <p align="center">
