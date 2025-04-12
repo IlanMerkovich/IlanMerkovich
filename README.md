@@ -49,23 +49,13 @@
 ### 😂 Programming Memes Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Debugging forever" />
-  <br />
-  <em>👨‍🔧 When you've been debugging for 4 hours and realize it was a missing semicolon</em>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Debugging forever" title="Debugging forever" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="Code works?!?" title="Code works?!?" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250" alt="Late night coding" title="Late night coding" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="It works?!" />
-  <br />
-  <em>😱 When your code works and you don’t know why</em>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" alt="Late night coding" />
-  <br />
-  <em>🌙 Finishing a lab at 2 AM because deadlines are real</em>
+  <em>👨‍🔧 Debugging for 4 hours &nbsp;&nbsp;&nbsp;&nbsp; 😱 Code works? &nbsp;&nbsp;&nbsp;&nbsp; 🌙 Coding at 2AM</em>
 </p>
