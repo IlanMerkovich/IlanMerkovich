@@ -58,7 +58,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ilanmarkovich&theme=onedark&margin-w=15&no-frame=true" />
 </p>
-
----
-
-<p align="center">😂 “I don’t always test my code, but when I do... I do it in production.” 😂</p>
