@@ -1,9 +1,17 @@
 <h1 align="center">Hey there! 👋 I'm Ilan Markovich</h1>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+</p>
 <p align="center">🎓 2nd Year Software Engineering Student at SCE – Ashdod 🇮🇱</p>
 
 ---
 
 ### 💡 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding guy" />
+</p>
 
 - 🧠 Passionate about **clean code**, **problem solving**, and **software design**
 - 🔧 Programming mainly in **C++**, **Java**, and **Python**
@@ -16,6 +24,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,git,vscode,github" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
 </p>
 
 ---
