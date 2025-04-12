@@ -48,7 +48,7 @@
   <a href="https://linkedin.com/in/ilanmarkovich" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:merkovichilan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -61,4 +61,4 @@
 
 ---
 
-<p align="center">✨ “Simplicity is prerequisite for reliability.” – Edsger Dijkstra ✨</p>
+<p align="center">😂 “I don’t always test my code, but when I do... I do it in production.” 😂</p>
