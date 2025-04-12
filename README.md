@@ -1,28 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ilan Markovich</h1>
-<h3 align="center">A passionate Computer Science student from Israel 🇮🇱</h3>
+<h3 align="center">2nd Year Software Engineering Student at SCE – Ashdod 🇮🇱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+OOP+Java+Developer;🔥+Python+Problem+Solver;🏗️+Building+XPENSEMATE+App;🧠+Always+learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Software+Engineering+Student;💡+Loves+Clean+Code+%26+Algorithms;⚙️+C%2B%2B+%7C+Java+%7C+Python;🚀+Always+learning+%26+growing..." />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 CS Student | 📍 Ashdod, Israel  
-- 🛠 Currently working on: **XPENSEMATE** 💸 (expense management app)  
-- ⚔️ Building a Java-based RPG game with turn-based combat  
-- 💻 I love Algorithms, FinTech, and Object-Oriented Design  
-- 🌊 Often found coding by the marina with a good coffee ☕
+- 🎓 Second-year Software Engineering student at **Sami Shamoon College of Engineering (SCE)**  
+- 💻 Strong background in **C++**, **Java**, and **Python**  
+- 🧠 Passionate about **data structures**, **algorithms**, and **system-level development**  
+- 🛠️ Currently learning advanced programming, OOP, and numerical analysis  
+- 📚 Focused on writing clean, efficient, and well-structured code  
 
 ---
 
-## 🔧 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -61,4 +62,4 @@
 
 ---
 
-<p align="center">✨ “Simplicity is the soul of efficiency.” ✨</p>
+<p align="center">✨ “Simplicity is prerequisite for reliability.” – Edsger Dijkstra ✨</p>
