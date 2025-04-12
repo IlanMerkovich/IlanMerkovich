@@ -46,9 +46,16 @@
 
 ---
 
-### 📈 GitHub Stats
+### 😂 Programming Memes Zone
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilanmarkovich&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanmarkovich&theme=default&hide_border=true" width="48%" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" alt="debugging meme" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBs3lDOaI1tL9Uk/giphy.gif" width="300" alt="coding late at night" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pwaHF5b3Y1c3F2cHRwaGk1aG44azZoa2R6enBuajV0ODR4djU0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1PSPwbkDcC6/giphy.gif" width="300" alt="code compiling" />
 </p>
